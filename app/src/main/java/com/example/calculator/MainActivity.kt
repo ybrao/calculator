@@ -113,6 +113,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+
         binding.clear.setOnClickListener {
 
             val1 = binding.editTextNumber.text.toString().toInt()
